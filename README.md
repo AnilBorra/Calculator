@@ -3,7 +3,7 @@
 =======
 >>>>>>> 2a5f89ba67cee1276cafa6dc817529499c80bb59
 # Calculator App
-Very basic calculator application created by Java **Swing**. 
+Very basic Calculator application created by Java **Swing**. 
 
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
