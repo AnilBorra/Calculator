@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # ****Edited By Anil Borra
+=======
+>>>>>>> 2a5f89ba67cee1276cafa6dc817529499c80bb59
 # Calculator App
 Very basic calculator application created by Java **Swing**. 
 
